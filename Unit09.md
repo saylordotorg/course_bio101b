@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101B: Introduction to Molecular and Cellular Biology"
+course_description: "A detailed introduction to molecular biology, including proteins, carbohydrates, lipids, and nucleic acids, water, and other compounds that make up the cell. Particular emphasis is placed on the cell membrane, mitosis and meiosis, genetics and gene expression, transcription and translation, and cellular metabolism."
+next: ../Unit010
+previous: ../Unit08
+---
 **Unit 9: Mendelian Genetics & Chromosomes** <span id="9"></span> 
 *Do you ever wonder why you look so similar to your brother, or where
 you got your freckles from?  Are you concerned about developing a

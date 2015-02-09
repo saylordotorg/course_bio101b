@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101B: Introduction to Molecular and Cellular Biology"
+course_description: "A detailed introduction to molecular biology, including proteins, carbohydrates, lipids, and nucleic acids, water, and other compounds that make up the cell. Particular emphasis is placed on the cell membrane, mitosis and meiosis, genetics and gene expression, transcription and translation, and cellular metabolism."
+next: ../../../
+previous: ../Unit10
+---
 **Unit 11: Final Exam** <span id="11"></span> 
 -   **Final Exam: The Saylor Foundation's "BIO101B Final Exam"**
     Link: The Saylor Foundation's "[BIO101B Final

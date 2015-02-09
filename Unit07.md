@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101B: Introduction to Molecular and Cellular Biology"
+course_description: "A detailed introduction to molecular biology, including proteins, carbohydrates, lipids, and nucleic acids, water, and other compounds that make up the cell. Particular emphasis is placed on the cell membrane, mitosis and meiosis, genetics and gene expression, transcription and translation, and cellular metabolism."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Cellular Reproduction: Mitosis** <span id="7"></span> 
 *This unit discusses the process of cellular division known as mitosis.
  Mitosis happens in almost every cell of your body and is responsible

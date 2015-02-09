@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101B: Introduction to Molecular and Cellular Biology"
+course_description: "A detailed introduction to molecular biology, including proteins, carbohydrates, lipids, and nucleic acids, water, and other compounds that make up the cell. Particular emphasis is placed on the cell membrane, mitosis and meiosis, genetics and gene expression, transcription and translation, and cellular metabolism."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: Cellular Reproduction: Meiosis** <span id="8"></span> 
 *Meiosis is a specialized type of cellular reproduction that only occurs
 in the ovaries and testes and results in an egg or sperm, respectively. 

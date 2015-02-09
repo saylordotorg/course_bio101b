@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101B: Introduction to Molecular and Cellular Biology"
+course_description: "A detailed introduction to molecular biology, including proteins, carbohydrates, lipids, and nucleic acids, water, and other compounds that make up the cell. Particular emphasis is placed on the cell membrane, mitosis and meiosis, genetics and gene expression, transcription and translation, and cellular metabolism."
+next: ../Unit11
+previous: ../Unit09
+---
 **Unit 10: Gene Expression** <span id="10"></span> 
 *In this unit, you will learn about the universal genetic codes
 deoxyribonucleic acid and ribonucleic acid, which are better known as

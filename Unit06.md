@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101B: Introduction to Molecular and Cellular Biology"
+course_description: "A detailed introduction to molecular biology, including proteins, carbohydrates, lipids, and nucleic acids, water, and other compounds that make up the cell. Particular emphasis is placed on the cell membrane, mitosis and meiosis, genetics and gene expression, transcription and translation, and cellular metabolism."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Photosynthesis** <span id="6"></span> 
 *Have you ever wondered how a plant grows from a tiny acorn to a giant
 oak?  Where does all that biomass come from?  How does it get the energy

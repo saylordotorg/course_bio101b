@@ -1,3 +1,10 @@
+---
+layout: default
+title: "BIO101B: Introduction to Molecular and Cellular Biology"
+course_description: "A detailed introduction to molecular biology, including proteins, carbohydrates, lipids, and nucleic acids, water, and other compounds that make up the cell. Particular emphasis is placed on the cell membrane, mitosis and meiosis, genetics and gene expression, transcription and translation, and cellular metabolism."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Cells and Cell Membranes** <span id="4"></span> 
 *Cells are the smallest unit of life.  This unit will help you to
 understand the characteristics, components, and functions of a cell.  By
